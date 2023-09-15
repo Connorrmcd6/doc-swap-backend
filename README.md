@@ -5,5 +5,6 @@ Adjust the configs of the algorthim accordingly in the `configs.py` file:
 - `n-sample`: the number of people to randomly select from the selection pool
 - `choice_max`: the maximum choice weight to include
 - `avg_weight_per_edge_threshold`: maximum average choice per user in a cycle to consider as a valid swap. Lower value will be less swaps but higher quality swaps.
+- `turn-on-email`: this switch will turn emails on or off, if it is set to 0 the emails will be printed to console otherwise they will be sent to the real addresses.
 
 The users emails and swap diagrams will be named as a reference number which the users can then use to query their swap. These are stored in the swaps folder.
