@@ -9,6 +9,7 @@ prod_google_sheet_key = "1Gleicb2C5_U77Q-5ynBQLR3GLMj8EvWA96sr5Cn-DLA"
 n_sample = 50
 choice_max = 3
 avg_weight_per_edge_threshold = 1.5
+turn_on_email = 0
 
 email_passwd = "pueaeaqvjnszeffv"
 email_sender = "docswapza@gmail.com"

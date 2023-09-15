@@ -324,7 +324,7 @@ def check_consecutive(tuple_to_check, n_bunch):
 
 
 def generate_swaps(
-    gs_connection, best_cycles, melted_selection_pool_df, G, user_status
+    gs_connection, best_cycles, melted_selection_pool_df, G, user_status, turn_on_email
 ):
     # Create the "swaps" directory if it doesn't exist
     if not os.path.exists(
@@ -450,7 +450,17 @@ def generate_swaps(
                     """
 
         # send_email(email_sender, email_passwd, recipients, email_subject, body, attachment_path=attachment_path)
-        print(f"would send email to {recipients}")
+        if turn_on_email == 0:
+            print(f"would send email to {recipients}")
+        if turn_on_email == 1:
+            send_email(
+                email_sender,
+                email_passwd,
+                recipients,
+                email_subject,
+                body,
+                attachment_path=attachment_path,
+            )
 
         # ---- update user status table here ---
 
