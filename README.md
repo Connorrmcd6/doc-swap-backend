@@ -1,4 +1,5 @@
 Once enough users have submitted their choices, run `cron.py` on a cron every 20 mins (`*/20 * * * *`) to determine swaps. This may need to be adjusted as gmail only allows 100 emails per day I think.
+_/5 _ \* \* \* /Users/connormcdonald/opt/anaconda3/bin/python /Users/connormcdonald/Desktop/GitHub/doc-swap-backend/cron.py >> /Users/connormcdonald/Desktop/GitHub/doc-swap-backend/logs.txt
 
 Adjust the configs of the algorthim accordingly in the `configs.py` file:
 

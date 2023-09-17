@@ -101,3 +101,6 @@ for i in range(5):
 
     else:
         print("no swaps found")
+
+curr_time = time.strftime("%H:%M:%S", time.localtime())
+print(f"finished at :{curr_time}")

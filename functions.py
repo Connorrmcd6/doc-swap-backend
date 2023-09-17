@@ -382,7 +382,7 @@ def generate_swaps(
         }
 
         swap_size = len(final_edge_df.index)
-        figsize = (np.ceil(swap_size * 2), np.ceil(swap_size * 2))
+        figsize = (np.ceil(swap_size * 3), np.ceil(swap_size * 3))
         pos = nx.spectral_layout(F)
 
         fig = plt.figure(1, figsize=figsize, dpi=100)
