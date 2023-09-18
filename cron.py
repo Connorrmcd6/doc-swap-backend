@@ -89,15 +89,18 @@ for i in range(5):
         print("step 9 complete")
 
         # step 10 generate swaps:
-        generate_swaps(
-            gs_connection,
-            best_cycles,
-            melted_selection_pool_df,
-            G,
-            user_status,
-            turn_on_email,
-        )
-        print("step 10 complete")
+        try:
+            generate_swaps(
+                gs_connection,
+                best_cycles,
+                melted_selection_pool_df,
+                G,
+                user_status,
+                turn_on_email,
+            )
+            print("step 10 complete")
+        except Exception as e:
+            print(f"An error occurred: {str(e)}")
 
     else:
         print("no swaps found")

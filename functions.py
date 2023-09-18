@@ -399,8 +399,8 @@ def generate_swaps(
 
         # Generate the filename with timestamp and iteration number
         timestamp = int(time.time())
-        filename = f"swaps/{timestamp}_{iteration}.png"
-        filename2 = f"swaps/{timestamp}_{iteration}.csv"
+        filename = f"/Users/connormcdonald/Desktop/GitHub/doc-swap-backend/swaps/{timestamp}_{iteration}.png"
+        filename2 = f"/Users/connormcdonald/Desktop/GitHub/doc-swap-backend/swaps/{timestamp}_{iteration}.csv"
 
         # Create a new DataFrame containing only the selected column
         emails = final_edge_df[["email"]]
