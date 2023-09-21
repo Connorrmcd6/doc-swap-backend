@@ -2591,3 +2591,417 @@ step 8 complete
 step 9 complete
 step 10 complete
 finished at :04:00:33
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user2052@example.com', 'user331@example.com', 'user776@example.com', 'user669@example.com', 'user1381@example.com', 'user1772@example.com', 'user1875@example.com', 'user1701@example.com', 'user1888@example.com', 'user1349@example.com', 'user1065@example.com', 'user1614@example.com', 'user515@example.com', 'user919@example.com', 'user1307@example.com', 'user2024@example.com', 'user1516@example.com', 'user1836@example.com', 'user2080@example.com', 'user1403@example.com', 'user1258@example.com', 'user1095@example.com', 'user1912@example.com', 'user1804@example.com', 'user983@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user784@example.com', 'user473@example.com', 'user1350@example.com', 'user985@example.com', 'user1897@example.com', 'user307@example.com', 'user1835@example.com', 'user391@example.com', 'user1277@example.com', 'user909@example.com', 'user1172@example.com', 'user1229@example.com', 'user1049@example.com', 'user946@example.com', 'user2045@example.com', 'user1527@example.com', 'user187@example.com', 'user694@example.com']
+would send email to ['user1097@example.com', 'user1481@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1534@example.com', 'user246@example.com', 'user1832@example.com', 'user456@example.com', 'user494@example.com', 'user368@example.com', 'user1058@example.com', 'user1566@example.com', 'user1499@example.com', 'user1266@example.com', 'user413@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1137@example.com', 'user455@example.com', 'user622@example.com', 'user1109@example.com', 'user717@example.com', 'user1924@example.com', 'user1205@example.com', 'user1788@example.com', 'user497@example.com', 'user813@example.com', 'user71@example.com', 'user198@example.com', 'user1037@example.com', 'user324@example.com', 'user104@example.com', 'user1963@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user955@example.com', 'user357@example.com', 'user177@example.com', 'user1104@example.com', 'user1603@example.com', 'user870@example.com', 'user721@example.com', 'user1296@example.com', 'user1831@example.com', 'user1761@example.com', 'user1306@example.com', 'user82@example.com', 'user1488@example.com', 'user1942@example.com', 'user488@example.com', 'user1329@example.com', 'user408@example.com', 'user933@example.com', 'user1505@example.com']
+step 10 complete
+finished at :08:40:57
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1507@example.com', 'user930@example.com', 'user1411@example.com', 'user1238@example.com', 'user954@example.com', 'user200@example.com', 'user1042@example.com', 'user1490@example.com', 'user491@example.com', 'user401@example.com', 'user1766@example.com']
+would send email to ['user1154@example.com', 'user2046@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user516@example.com', 'user1362@example.com', 'user1758@example.com', 'user1041@example.com', 'user1387@example.com', 'user1528@example.com', 'user1270@example.com', 'user1195@example.com', 'user869@example.com', 'user1094@example.com', 'user728@example.com', 'user581@example.com', 'user349@example.com', 'user1613@example.com', 'user757@example.com', 'user658@example.com', 'user1946@example.com', 'user1795@example.com', 'user979@example.com', 'user1683@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user528@example.com', 'user914@example.com', 'user1594@example.com']
+would send email to ['user179@example.com', 'user1332@example.com', 'user670@example.com']
+would send email to ['user1492@example.com', 'user1208@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1691@example.com', 'user398@example.com', 'user1275@example.com', 'user1757@example.com', 'user780@example.com', 'user447@example.com', 'user966@example.com', 'user1121@example.com', 'user1562@example.com', 'user1343@example.com', 'user570@example.com', 'user407@example.com', 'user1711@example.com', 'user1374@example.com', 'user1044@example.com', 'user1787@example.com', 'user678@example.com', 'user739@example.com', 'user284@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1006@example.com', 'user2073@example.com', 'user525@example.com', 'user685@example.com', 'user1982@example.com', 'user1377@example.com', 'user885@example.com']
+would send email to ['user1231@example.com', 'user1185@example.com']
+would send email to ['user1255@example.com', 'user1189@example.com']
+step 10 complete
+finished at :09:01:01
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user247@example.com', 'user389@example.com', 'user1706@example.com', 'user1677@example.com', 'user1907@example.com', 'user80@example.com', 'user544@example.com', 'user744@example.com', 'user1446@example.com', 'user261@example.com', 'user0@example.com', 'user1511@example.com', 'user614@example.com', 'user986@example.com', 'user1053@example.com', 'user2056@example.com', 'user2075@example.com', 'user1489@example.com', 'user1077@example.com']
+would send email to ['user1249@example.com', 'user692@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user621@example.com', 'user1082@example.com', 'user2011@example.com', 'user535@example.com', 'user445@example.com', 'user1000@example.com', 'user1601@example.com', 'user1685@example.com', 'user873@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user840@example.com', 'user1447@example.com', 'user430@example.com', 'user1503@example.com', 'user2072@example.com', 'user1060@example.com', 'user514@example.com', 'user783@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user517@example.com', 'user1582@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user917@example.com', 'user846@example.com', 'user394@example.com', 'user1813@example.com', 'user1529@example.com', 'user548@example.com', 'user2021@example.com', 'user2049@example.com', 'user440@example.com', 'user1857@example.com', 'user746@example.com', 'user1484@example.com']
+would send email to ['user982@example.com', 'user1061@example.com', 'user460@example.com']
+step 10 complete
+finished at :09:20:40
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1483@example.com', 'user1980@example.com', 'user1059@example.com', 'user1125@example.com', 'user810@example.com', 'user1689@example.com', 'user495@example.com', 'user1279@example.com', 'user1698@example.com', 'user582@example.com', 'user1843@example.com', 'user1886@example.com', 'user2064@example.com', 'user1179@example.com', 'user948@example.com', 'user1767@example.com', 'user1526@example.com', 'user429@example.com', 'user981@example.com', 'user662@example.com', 'user2055@example.com', 'user1174@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1176@example.com', 'user1541@example.com', 'user594@example.com', 'user1913@example.com', 'user2077@example.com', 'user812@example.com', 'user1812@example.com', 'user1392@example.com', 'user924@example.com', 'user1889@example.com', 'user1620@example.com', 'user1360@example.com', 'user872@example.com', 'user747@example.com', 'user1264@example.com', 'user446@example.com', 'user490@example.com', 'user1494@example.com', 'user392@example.com', 'user2035@example.com', 'user1450@example.com', 'user1872@example.com', 'user672@example.com']
+would send email to ['user1243@example.com', 'user1106@example.com', 'user1762@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user754@example.com', 'user978@example.com', 'user1234@example.com', 'user1615@example.com', 'user1939@example.com', 'user1184@example.com', 'user1371@example.com']
+would send email to ['user738@example.com', 'user400@example.com', 'user1133@example.com', 'user2078@example.com', 'user526@example.com', 'user1506@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user2071@example.com', 'user1232@example.com', 'user906@example.com', 'user1299@example.com', 'user1552@example.com', 'user340@example.com', 'user1376@example.com', 'user865@example.com', 'user1335@example.com']
+would send email to ['user1032@example.com', 'user451@example.com']
+would send email to ['user589@example.com', 'user687@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user486@example.com', 'user2065@example.com', 'user1382@example.com', 'user1245@example.com', 'user623@example.com', 'user1920@example.com', 'user327@example.com', 'user1120@example.com']
+would send email to ['user1033@example.com', 'user1143@example.com', 'user980@example.com', 'user1694@example.com', 'user419@example.com']
+would send email to ['user726@example.com', 'user897@example.com']
+step 10 complete
+finished at :09:41:02
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user597@example.com', 'user1293@example.com', 'user719@example.com', 'user1048@example.com', 'user1726@example.com', 'user984@example.com', 'user109@example.com', 'user887@example.com', 'user1336@example.com', 'user1099@example.com', 'user2074@example.com', 'user969@example.com', 'user459@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1712@example.com', 'user595@example.com', 'user1340@example.com', 'user1379@example.com', 'user1301@example.com', 'user91@example.com', 'user1510@example.com', 'user54@example.com', 'user343@example.com', 'user1140@example.com', 'user1925@example.com', 'user1035@example.com', 'user450@example.com', 'user510@example.com', 'user2039@example.com', 'user755@example.com', 'user972@example.com', 'user952@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1128@example.com', 'user1186@example.com', 'user323@example.com', 'user1674@example.com', 'user1829@example.com', 'user1885@example.com', 'user1501@example.com', 'user2043@example.com', 'user892@example.com', 'user1214@example.com', 'user748@example.com', 'user1372@example.com', 'user1778@example.com', 'user1036@example.com', 'user1455@example.com', 'user2029@example.com', 'user1241@example.com', 'user524@example.com', 'user1904@example.com', 'user441@example.com', 'user1550@example.com', 'user1518@example.com']
+would send email to ['user326@example.com', 'user1102@example.com', 'user1719@example.com']
+would send email to ['user1756@example.com', 'user1261@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user2053@example.com', 'user2076@example.com', 'user702@example.com', 'user706@example.com', 'user1679@example.com', 'user1076@example.com', 'user968@example.com', 'user848@example.com', 'user1531@example.com', 'user1115@example.com', 'user1087@example.com', 'user396@example.com', 'user1385@example.com', 'user485@example.com', 'user442@example.com', 'user242@example.com', 'user1233@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1050@example.com', 'user465@example.com', 'user1089@example.com', 'user1395@example.com', 'user580@example.com']
+would send email to ['user1944@example.com', 'user452@example.com']
+step 10 complete
+finished at :10:00:52
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user552@example.com', 'user317@example.com', 'user90@example.com', 'user265@example.com', 'user1052@example.com', 'user1755@example.com', 'user1248@example.com', 'user736@example.com', 'user1727@example.com', 'user1417@example.com', 'user600@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user85@example.com', 'user1695@example.com', 'user674@example.com', 'user992@example.com', 'user275@example.com', 'user1389@example.com', 'user1057@example.com', 'user404@example.com', 'user2060@example.com', 'user1129@example.com', 'user1295@example.com', 'user1171@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1688@example.com', 'user437@example.com', 'user471@example.com', 'user1240@example.com', 'user2037@example.com', 'user1054@example.com', 'user386@example.com', 'user1949@example.com', 'user1210@example.com']
+would send email to ['user715@example.com', 'user881@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1283@example.com', 'user571@example.com', 'user2050@example.com', 'user393@example.com', 'user1776@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user74@example.com', 'user416@example.com', 'user1304@example.com', 'user1732@example.com', 'user376@example.com', 'user458@example.com', 'user1768@example.com', 'user1212@example.com', 'user2040@example.com', 'user482@example.com', 'user1902@example.com', 'user1523@example.com']
+would send email to ['user689@example.com', 'user1802@example.com']
+step 10 complete
+finished at :10:20:43
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user847@example.com', 'user1421@example.com', 'user335@example.com', 'user727@example.com', 'user1344@example.com', 'user1267@example.com', 'user1031@example.com', 'user1107@example.com', 'user586@example.com', 'user1759@example.com', 'user444@example.com', 'user282@example.com', 'user936@example.com', 'user1444@example.com', 'user496@example.com', 'user2033@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1769@example.com', 'user1922@example.com', 'user129@example.com', 'user1342@example.com', 'user2051@example.com', 'user1508@example.com', 'user337@example.com', 'user537@example.com', 'user1038@example.com', 'user1844@example.com', 'user583@example.com', 'user1236@example.com', 'user1781@example.com', 'user1316@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1142@example.com', 'user511@example.com', 'user417@example.com', 'user1315@example.com', 'user1681@example.com', 'user1016@example.com', 'user1230@example.com', 'user833@example.com', 'user1806@example.com', 'user325@example.com', 'user1724@example.com', 'user2066@example.com', 'user1434@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1692@example.com', 'user1770@example.com', 'user395@example.com', 'user1862@example.com', 'user1994@example.com', 'user1039@example.com', 'user2036@example.com', 'user418@example.com', 'user1079@example.com', 'user868@example.com', 'user722@example.com', 'user773@example.com', 'user890@example.com', 'user1364@example.com', 'user1227@example.com', 'user1699@example.com', 'user567@example.com']
+would send email to ['user1491@example.com', 'user989@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user794@example.com', 'user508@example.com', 'user1723@example.com', 'user927@example.com', 'user1040@example.com', 'user1285@example.com', 'user1368@example.com', 'user2070@example.com', 'user664@example.com']
+step 10 complete
+finished at :10:40:46
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1917@example.com', 'user1330@example.com', 'user1152@example.com', 'user716@example.com', 'user1687@example.com', 'user1451@example.com', 'user427@example.com', 'user463@example.com', 'user921@example.com', 'user382@example.com', 'user1997@example.com', 'user1722@example.com', 'user693@example.com', 'user1122@example.com', 'user1008@example.com', 'user1482@example.com', 'user562@example.com', 'user976@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1905@example.com', 'user718@example.com', 'user330@example.com', 'user1973@example.com', 'user904@example.com', 'user1473@example.com', 'user1028@example.com', 'user522@example.com', 'user1864@example.com', 'user195@example.com', 'user1716@example.com', 'user790@example.com', 'user1453@example.com', 'user1116@example.com', 'user462@example.com', 'user956@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user509@example.com', 'user1051@example.com', 'user1708@example.com', 'user1840@example.com', 'user627@example.com', 'user367@example.com', 'user1957@example.com', 'user918@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1760@example.com', 'user1837@example.com', 'user1383@example.com', 'user361@example.com', 'user405@example.com', 'user1017@example.com', 'user1305@example.com', 'user920@example.com']
+would send email to ['user285@example.com', 'user2079@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1167@example.com', 'user351@example.com', 'user1597@example.com', 'user1355@example.com', 'user443@example.com', 'user1056@example.com', 'user2058@example.com', 'user560@example.com', 'user1926@example.com', 'user659@example.com', 'user1092@example.com']
+step 10 complete
+finished at :11:00:44
+step 1 complete
+step 2 complete
+step 3 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1370@example.com', 'user1239@example.com', 'user705@example.com', 'user1359@example.com', 'user1443@example.com', 'user1429@example.com', 'user915@example.com', 'user1012@example.com', 'user1672@example.com', 'user1445@example.com', 'user487@example.com', 'user1497@example.com', 'user1588@example.com', 'user1742@example.com', 'user433@example.com', 'user1319@example.com', 'user1199@example.com', 'user1533@example.com', 'user949@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user1252@example.com', 'user1009@example.com', 'user1707@example.com', 'user1966@example.com', 'user564@example.com', 'user774@example.com', 'user1553@example.com', 'user1384@example.com', 'user402@example.com', 'user1918@example.com']
+would send email to ['user228@example.com', 'user428@example.com']
+would send email to ['user1135@example.com', 'user671@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+step 8 complete
+step 9 complete
+would send email to ['user467@example.com', 'user1090@example.com', 'user387@example.com', 'user1841@example.com', 'user733@example.com', 'user1474@example.com']
+would send email to ['user1894@example.com', 'user435@example.com', 'user1014@example.com', 'user894@example.com', 'user1860@example.com']
+step 10 complete
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+no swaps found
+step 4 complete
+step 5 complete
+step 6 complete
+step 7 complete
+no swaps found
+finished at :11:20:41
